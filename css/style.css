@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 40px;
+}
+
+h1 {
+    color: gold;
+    font-size: 48px;
+}
+
+h2 {
+    color: yellow;
+    font-size: 28px;
+    padding-top: 45px;
+}
+
+h3 {
+    color: red;
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+p {
+    color: white;
+    padding-left: 30px;
+    font-size: 18px;
+}
